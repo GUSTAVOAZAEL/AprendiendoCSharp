@@ -1,0 +1,6 @@
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\bin\Debug\Multiplo.exe.config
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\bin\Debug\Multiplo.exe
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\bin\Debug\Multiplo.pdb
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\obj\Debug\Multiplo.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\obj\Debug\Multiplo.exe
+C:\AprendaCSharp\AprendiendoCSharp\10Multiplo\Multiplo\Multiplo\obj\Debug\Multiplo.pdb
