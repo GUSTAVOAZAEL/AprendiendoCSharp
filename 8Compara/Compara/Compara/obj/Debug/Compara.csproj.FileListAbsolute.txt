@@ -1,0 +1,6 @@
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\bin\Debug\Compara.exe.config
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\bin\Debug\Compara.exe
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\bin\Debug\Compara.pdb
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\obj\Debug\Compara.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\obj\Debug\Compara.exe
+C:\AprendaCSharp\AprendiendoCSharp\8Compara\Compara\Compara\obj\Debug\Compara.pdb
