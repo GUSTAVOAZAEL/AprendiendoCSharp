@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\bin\Debug\Conversiones.exe.config
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\bin\Debug\Conversiones.exe
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\bin\Debug\Conversiones.pdb
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\obj\Debug\Conversiones.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\obj\Debug\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\obj\Debug\Conversiones.exe
+C:\Users\gusta\source\repos\2Conversiones\Conversiones\obj\Debug\Conversiones.pdb
