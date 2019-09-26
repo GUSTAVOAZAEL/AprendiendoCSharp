@@ -1,0 +1,6 @@
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\obj\Debug\Tablas.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\bin\Debug\Tablas.exe.config
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\bin\Debug\Tablas.exe
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\bin\Debug\Tablas.pdb
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\obj\Debug\Tablas.exe
+C:\AprendaCSharp\AprendiendoCSharp\7Tablas\Tablas\Tablas\obj\Debug\Tablas.pdb
