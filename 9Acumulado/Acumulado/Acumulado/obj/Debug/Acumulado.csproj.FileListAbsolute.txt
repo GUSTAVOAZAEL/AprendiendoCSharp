@@ -1,0 +1,6 @@
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\bin\Debug\Acumulado.exe.config
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\bin\Debug\Acumulado.exe
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\bin\Debug\Acumulado.pdb
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\obj\Debug\Acumulado.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\obj\Debug\Acumulado.exe
+C:\AprendaCSharp\AprendiendoCSharp\9Acumulado\Acumulado\Acumulado\obj\Debug\Acumulado.pdb
