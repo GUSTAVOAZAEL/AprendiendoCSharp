@@ -1,0 +1,7 @@
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csprojAssemblyReference.cache
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\AprendaCSharp\1Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
